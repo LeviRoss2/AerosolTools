@@ -2,7 +2,7 @@
 Arduino/Teensy components to run devices necessary for aerosol measurements at Oklahoma State University.
 
 ## Code
-SDP6_V1.0.ino is the Arduino file that executes datalogging over three SDP610 sensors. Formatted to run on Teensy 3.6/4.1.
+SDP6_V1.0.ino is the Arduino file that executes datalogging over three SDP610 sensors. Formatted to run at 30 Hz on Teensy 3.6/4.1.
 
 ## Libraries
 ### Standard TeensyDuino Libraries (as of TeensyDuino 1.8.5, if at or above these are not needed)
